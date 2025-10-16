@@ -1,5 +1,7 @@
-Flask==2.3.6
-yt-dlp>=2025.1.8
-instaloader>=4.11
-requests>=2.31
-Werkzeug>=3.1.2
+flask
+yt-dlp
+instaloader
+requests
+gunicorn
+werkzeug
+
